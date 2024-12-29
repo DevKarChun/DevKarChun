@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Graduate
 -------------------------
 
-I have been involved in coding for approximately 5 years, gaining experience in front-end and back-end web development, as well as Android Kotlin and iOS Swift. I am dedicated to regularly updating my repositories, and I cordially invite you to take a look at them.
+I have been engaged in coding for around 10 years, acquiring expertise in front-end and back-end web development, along with Android Kotlin and iOS Swift. I am committed to keeping my repositories up to date and warmly welcome you to explore them. Since 2022, I have also embarked on learning about AWS cloud, security, and development.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [devkarchun@gmail.com](mailto:devkarchun@gmail.com)
